@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\cristhiandc98\Desktop\Ninitas_y_Ninitas\Ninitas_y_ninitas_Web_\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2618880334.index
+1554212290.index
+623266489.index
+323317292.index
+495287373.index
+1188912610.index
+3732750398.index

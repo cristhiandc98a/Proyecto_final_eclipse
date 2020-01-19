@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Ninitas_y_ninitas">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <property name="context-root" value="Ninitas_y_ninitas"/>
+        <property name="java-output-path" value="/Ninitas_y_ninitas/build/classes"/>
+    </wb-module>
+</project-modules>
